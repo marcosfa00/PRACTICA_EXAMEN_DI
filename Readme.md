@@ -11,3 +11,7 @@ entra 1ª cosa:
 
 
 ┌( ͝° ͜ʖ͡°)=ε/̵͇̿̿/’̿’̿ ̿
+
+
+Bueno, este ejemplo de formulario es perfecto, ya que se ve perfectamente todo lo que entra, a mayores tocará programar los botones, asi como 
+añadir elementos a la tabla, ya que todo esto para la lista ya se vió anteriormente
