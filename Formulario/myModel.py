@@ -24,10 +24,7 @@ class myModel(QAbstractListModel):
             - EditRole: el texto a ser editado en la tabla
 
         '''
-
-        if role == Qt.ItemDataRole.DisplayRole:
-            # la barra baja _  es una convencion para indicar que no usamos etsa variable
-            _, text = self.task[index.row()]
+  _, text = self.task[index.row()]
             return text
         elif role == Qt.ItemDataRole.DecorationRole:
             state, _ = self.task[index.row()]
